@@ -24,7 +24,7 @@ const DisplayBlogs = ({ allPostsData }) => {
                     <p className="flex justify-between">
                         <Link
                             className="text-purple-500 hover:text-purple-400 flex justify-center items-center"
-                            href={'blogposts/' + id}
+                            href={'/blogposts/' + id}
                         >
                             Read More &nbsp; <BsFillArrowRightCircleFill />
                         </Link>

@@ -2,7 +2,7 @@
 title: 'Introduction to Programming: Choosing the Right Language for Beginners'
 description: "Programming is the foundation of the digital world, enabling us to create software, build websites, and develop innovative solutions. If you're new to the technology field and interested in learning programming, one of the first decisions you'll face is choosing the right programming language to start with. In this article, we'll explore some popular programming languages and help you understand which language may be the best fit for beginners."
 author: 'Argha Mallick'
-date: '2023-06-27'
+date: '2024-01-04'
 tags: ['Programming', 'Beginners Guide', 'Coding']
 ---
 

@@ -2,7 +2,7 @@
 title: "A Beginner's Guide to Python Programming"
 description: "Python, often referred to as the programming language for everyone, stands as a beacon in the world of coding. Its unmatched simplicity, readability, and versatility make it an ideal starting point for both beginners and seasoned developers. Whether you're a curious novice or an experienced programmer, Python offers a welcoming and powerful platform for turning your ideas into reality."
 author: 'Argha Mallick'
-date: '2023-10-24'
+date: '2024-01-02'
 tags: ['Python', 'Programming', 'Beginners Guide']
 ---
 
